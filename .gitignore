@@ -19,3 +19,4 @@
 ./cat/test/__pycache__/
 ./cat/util/__pycache__/*
 ./cat/util/__pycache__/
+.ipynb_checkpoints/
