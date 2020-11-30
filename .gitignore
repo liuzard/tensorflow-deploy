@@ -21,3 +21,4 @@
 ./cat/util/__pycache__/
 .ipynb_checkpoints/
 */.ipynb_checkpoints/
+/01_mnist_classification_tf_1.x/.ipynb_checkpoints/
