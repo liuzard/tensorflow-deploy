@@ -11,3 +11,7 @@
 **java 部署tensorlfow 模型(.pb 格式)**
 
 **flask 部署tensorflow 模型**
+
+
+
+tensorflow的部署方式多样，欢迎大家贡献其它的部署方式。
